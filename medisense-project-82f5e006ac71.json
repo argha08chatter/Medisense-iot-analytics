@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medisense-project",
+  "private_key_id": "82f5e006ac7149d51f1228eb4fa2169cf0f13714",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMdgfdBIENChJz\neMw8lmQb9LholXhC/BKq37jJkuqVq7g+8ZWoVCi+gU3UaD0fWrvMJdnRW2TAHYzX\nuD6fHWf4Z9QfA/VBMqRsGDwql80vW9SrQI+42HerQyaxtwAIYJ6ISgthnYE87BHr\nze34sN0DrjSznsnfiKme6hbUGWSS8SJYRpJr8rjCAImUHKLxRbC/EH6tSH5M7Exa\nbbUIcNshh4zD72qukbuZ7CJ9d9oclzhoYIcAVdgzjTaljVWqycfF6vWGFrxnLNH3\nZefbvVRCMvTMEbRlpDb7oLUP28Ypbp6HizR9vR3Xsa6ahGUUZiAJrwX/aVb1L5FI\nsp9nllAvAgMBAAECggEAA5bc23ntRAvVuBY6S6P+POlmZVueYVqofzxvM4azPI5n\nrR8zl+FmV7XQZnawAAFpQ5O0h7LZiW/bXZwb6VIsVZWJCURaBVt8vHMOd1bz4K11\nhc4b18xhCW4j20HRq9P6ZH0cRwnrT2T7iY6za0a7kol33mFevOBazfHhFbceZ1/x\nQo6A3srec9lcTSvlQmd5njNk4hC8/eoL7SrBisNg3DdHXVYNd6YczTbhOguTBBZ2\n2oSXMGQw0cZuKzCNEtJf+6M4xouVexH687r7AMRCRHxT9z4p/lWPGcCv4mU8Awv9\nsY7Ru/M2UWqeOaSbBFP97iWa2gY80lZ/qZKeh5cZoQKBgQD26B9kIjCSN0qGbqTB\nyNtlOdNYxmAWEC9i198GJYAvCj7BArNRFLTfhiBIKAW8y99Ddwq33J2bmaA+EipY\n1s/ECpoIlM1ZpxVlBEigqfgqt/QIfBMoY8I123L7jwFmXKPflB+qWKp780sDy2io\n5XenxqDRrmNWWbIEjSSQfz+XDwKBgQDT/bkqN5IIkMKpd4gG6w+dz44frkBl3fB1\niKLGInwo5jCGMbukoEw86JavhFQsTH7Ixy59XtLHrcjvwoKjEqANTAO7tT1dQ7dL\noyLmdT6I8XhXjCeotjeTIqxqKNK32iRdXlWOpXlfjhSj2mIDZuQtPpjw3dqJGgdI\n2cD9ncS04QKBgQDzYWI4GT+ZkakDlKMRZgVl5bdAJeNnPDMJktMDwwl01PuA1EGf\n5fJY92Rw3AqzzJ7aaMiG7o/pZmi/ZraZdb29d9nYJZ26Buoe9jcFMCYxLbz+dBeK\nU7OH1TalY5S0qxLZ+6+vAdGjdvH13pbfDbqCBlhV+DlxT98bf2mQie5L3wKBgBYW\nHTCU0ZYq3t0hIv71ho7+jOQoF3WFhgP41FyoQx9PvEZ+7/na6ZZ+9RQcSVjEL4Fj\nnyhYtMUxCfpQ3aN30U0RWmI4I8iPwY0T1hMErBtAbTVR2N/u/CNMPYJh9nJJO/iu\nV2OhQd/+wY/AtO19ztAX8X9G3fniyFeCuGS0B0aBAoGBAKixBMBJuoveOg8KU7D4\n+0aiVbDAt7L56Eq3sH1eXkzzXKW39/nu5N62c9hYQI4XfObPhpX7i4MKFhK8DZv2\nPyNfvgO9OQjwyBwV6oQMtOcXdvU12X6rgqvSwwcXJgGZdQX7lWhOGt4QDrnJssrL\nZTmnmRio1wVyOaOtzU9NHufN\n-----END PRIVATE KEY-----\n",
+  "client_email": "medisense-dbt@medisense-project.iam.gserviceaccount.com",
+  "client_id": "104028943320608381067",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medisense-dbt%40medisense-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
