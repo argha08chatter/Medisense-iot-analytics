@@ -1,0 +1,3 @@
+*.json
+venv/
+simulated_patient_data.csv
