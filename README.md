@@ -1,15 +1,26 @@
-Welcome to your new dbt project!
+Medisense - IoT Patient Vitals Analytics Pipeline
+Project Overview
+End-to-End healthcare analytics pipeline simulating a hospital IoT sensor network.
+Processs **1M+ patient readings** to detect critical vital sign anommalies in real time.
 
-### Using the starter project
+Tech Stack
+Python | pandas | BigQuery | dbt | Looker Studio | Git
 
-Try running the following commands:
-- dbt run
-- dbt test
+Architecture
+IoT Sensors → Python Simulation → BigQuery → dbt Models → Looker Studio Dashboard
 
+Key Results
+- Processed **10,00,000 sensor readings** across **100 simulated patients**.
+- Detected **50,000+ anomalous vital sign readings** (5% anomaly rate)
+- Built 4 dbt transformation models (staging, mart, anomaly flags, risk scoring)
+- Deployed live dashboard showing patient risk leaderboard
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+dbt Models
+- stg_sensor_readings - Cleaned raw sensor data
+- mart_vitals_hourly - Aggregated vitls per patient
+- mart_anomaly_flags - Flagged critical readings with vital-specific flags
+- mart_patient_risk_score - Composite daily score per patient
+
+Dashboard
+[View Live Dashboard]
+https://datastudio.google.com/reporting/d7a6cd39-0148-489b-b11b-d1fef7cef792
